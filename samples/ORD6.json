@@ -1,0 +1,15 @@
+{
+  "id": "ORD6",
+  "type": "order",
+  "customerId": "CUST123",
+  "items": [
+    {
+      "productId": "PROD1",
+      "quantity": -1
+    },
+    {
+      "productId": "PROD2",
+      "quantity": 6
+    }
+  ]
+}

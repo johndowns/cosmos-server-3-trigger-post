@@ -1,0 +1,10 @@
+{
+  "id": "ORD4",
+  "type": "order",
+  "items": [
+    {
+      "productId": "PROD1",
+      "quantity": 5
+    }
+  ]
+}
